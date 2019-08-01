@@ -3,3 +3,6 @@ A Graph is a non-linear data structure consisting of nodes and edges. The nodes 
 ![alt text](https://www.geeksforgeeks.org/wp-content/uploads/undirectedgraph.png)Set of vertices V = {0,1,2,3,4} and the set of edges E = {01, 12, 23, 34, 04, 14, 13}.<br>
 1} Kruskal’s Minimum Spanning Tree Algorithm:-<br>
 ![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/KruskalDemo.gif/220px-KruskalDemo.gif)
+
+<br><br>
+Do *fork* and improve my efficiency if you can ;).
